@@ -3,14 +3,14 @@
 <hr> -->
 
 ```bash
-** Clone this project or download zip files **
+# Clone this project or download zip files
 # Install Packages
 $ npm intsall
 ## or
 $ yarn
 
 # Adding notes
-## both title and body is required
+# both title and body is required
 $ node index.js add --title="NOTE TITLE" --body="NOTE BODY"
 
 # Remove specific note
@@ -18,7 +18,7 @@ $ node index.js add --title="NOTE TITLE" --body="NOTE BODY"
 $ node index.js remove --title="NOTE TITLE"
 
 # Read specific note
-## title is required to read note
+# title is required to read note
 $ node index.js read --title="NOTE TITLE"
 
 
