@@ -3,7 +3,7 @@
 <hr> -->
 
 ```bash
-# Clone this project or download zip files
+$$ Clone this project or download zip files
 # Install Packages
 $ npm intsall
 ## or
